@@ -177,6 +177,10 @@
     width: 33.33333%; /* By default, 3 slides at a time */
     padding-right: 10px;
 
+    &.active {
+      background: none;
+    }
+
     a {
       display: block;
       margin: 0 auto;
