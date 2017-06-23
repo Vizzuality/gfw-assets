@@ -16,11 +16,11 @@
 // Gradient
 @mixin gradient($origin: left, $start: #ffffff, $stop: #000000) {
     // background-color: $start;
-    background-image: -webkit-linear-gradient($origin, $start, $stop);
-    background-image: -moz-linear-gradient($origin, $start, $stop);
-    background-image: -o-linear-gradient($origin, $start, $stop);
-    background-image: -ms-linear-gradient($origin, $start, $stop);
-    background-image: linear-gradient($origin, $start, $stop);
+    background-image: -webkit-linear-gradient(to $origin, $start, $stop);
+    background-image: -moz-linear-gradient(to $origin, $start, $stop);
+    background-image: -o-linear-gradient(to $origin, $start, $stop);
+    background-image: -ms-linear-gradient(to $origin, $start, $stop);
+    background-image: linear-gradient(to $origin, $start, $stop);
 }
 
 //Loader
