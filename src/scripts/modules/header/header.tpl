@@ -49,7 +49,7 @@
     <div class="m-header-sub-menu-dashboard sub-menu" id="dashboard-sub-menu">
       <div class="nav-sub-menu-container">
         <div class="form-search-container">
-          <form class="search-container" id="search-container" action="http://www.globalforestwatch.org/search">
+          <form class="search-container" id="search-container" action="https://www.globalforestwatch.org/search">
             <input type="text" name="query" id="search-input" placeholder="SEARCH"/>
             <button type="submit"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-h-search"></use></svg></button>
           </form>
