@@ -79,7 +79,7 @@
             <div class=" more-options-container">
               <a class="more-options-item" href="http://developers.globalforestwatch.org/">
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-developer"></use></svg>
-                <span>developers corners</span>
+                <span>developer tools</span>
               </a>
               <a class="more-options-item" href="<% if (location.hostname === 'staging.globalforestwatch.org') {%>http://staging.globalforestwatch.org/howto<% } else { %>http://www.globalforestwatch.org/howto<% } %>">
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-how-to"></use></svg>
