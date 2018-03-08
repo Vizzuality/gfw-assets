@@ -70,7 +70,7 @@ class Header {
     this.logoMenu = this.$header.find('.logo-menu');
     this.initLanguageText = this.$header.find('.init-language-tex');
     this.useGoogleTranslate = this.$header.attr('data-google') || false;
-    
+
     this.navSections = this.$header.find('.nav-sections');
     this.navSectionLogo = this.$header.find('.logo-sections-container');
     this.navOptions = this.$header.find('.options-container');
@@ -496,37 +496,6 @@ class Header {
    */
   initTransifex() {
     $gfwdom('.open-menu-button-language').addClass('-min-width-transifex');
-    window.liveSettings.detectlang = function getLiveSettings() {
-      const getParam = function getParamFunction(name) {
-        const nameTr = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-        const regexS = `[\\?&]+${nameTr}+=([^&#]*)`;
-        const regex = new RegExp(regexS);
-        const results = regex.exec(window.location.href);
-        let returnVar = null;
-        if (results === null) {
-          returnVar = null;
-        } else {
-          returnVar = results[1];
-        }
-        return returnVar;
-      };
-
-      const getParamFromLocalStorage = function getParamFromLocalStorage() {
-        if (!localStorage.getItem('txlive:selectedlang')) {
-          return JSON.parse(localStorage.getItem('txlive:selectedlang'));
-        }
-        return null;
-      };
-
-      // If param exists, save it the localStorage
-      if (!getParam('lang')) {
-        localStorage.setItem('txlive:selectedlang', getParam('lang'));
-      }
-
-      // Then, use the param or the localStorage attribute
-      const lang = getParam('lang') || getParamFromLocalStorage('txlive:selectedlang');
-      return lang;
-    };
 
     window.liveSettings.picker = (utils.isSmallScreen()) ? '#transifexTranslateMobileElement' : '#transifexTranslateElement';
 
