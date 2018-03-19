@@ -528,6 +528,12 @@
           @include sprite($idbhover);
         }
       }
+      &.idbinvest {
+        @include sprite($idbinvest);
+        &:hover {
+          @include sprite($idbinvesthover);
+        }
+      }
       &.imazon {
         @include sprite($imazon);
         &:hover {

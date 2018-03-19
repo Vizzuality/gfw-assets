@@ -74,6 +74,7 @@
           <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.haka.or.id/" class="haka"></a></li>
           <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.icf.gob.hn/" class="icf"></a></li>
           <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.iadb.org/en/inter-american-development-bank,2837.html" class="idb"></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.idbinvest.org/" class="idbinvest"></a></li>
           <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.imazon.org.br/pagina-inicial-en?set_language=en&amp;cl=en" class="imazon"></a></li>
           <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.inab.gob.gt/" class="inab"></a></li>
           <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://europe.croklaan.com/taking-responsibility" class="ioi"></a></li>
