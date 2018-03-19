@@ -46,7 +46,7 @@ module.exports = {
         css: path.resolve(__dirname, 'src/styles/modules/logos-sprite.scss')
       },
       apiOptions: {
-        cssImageRef: "https://cdn.rawgit.com/Vizzuality/gfw-assets/8920086e74081204670fc437e81d16a67ccd7746/src/images/sprites/logos-sprite.png"
+        cssImageRef: "https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/sprites/logos-sprite.png"
       }
     })
   ],
