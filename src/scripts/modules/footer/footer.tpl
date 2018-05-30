@@ -1,5 +1,5 @@
 <div class="m-footer-subscribe">
-  <a href="/?show_newsletter=true" class="m-footer-subscribe-button">STAY UPDATED</a>
+  <div class="m-footer-subscribe-button js-footer-newsletter">STAY UPDATED</div>
 </div>
 <div class="wrapper">
   <div class="m-footer-list">

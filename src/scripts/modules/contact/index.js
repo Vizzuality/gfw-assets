@@ -114,6 +114,7 @@ class Contact {
     this.$body.on('click', '.contact-link', this.show.bind(this));
     this.$body.on('click', '.feedback-link', this.showFeedback.bind(this));
     this.$body.on('click', '.newsletter-link', this.showNewsletter.bind(this));
+    this.$body.on('click', '.js-footer-newsletter', this.showNewsletter.bind(this));
     this.$body.on('click', '.data-suggestion-link', this.showDataSuggestion.bind(this));
 
     this.$el.on('click', '.js-btn-submit', this.actionSubmit.bind(this));
