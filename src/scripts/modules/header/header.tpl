@@ -89,7 +89,7 @@
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-samll-people"></use></svg>
                 <span>small grants fund</span>
               </a>
-              <a class="more-options-item" href="http://data.globalforestwatch.org/">
+              <a class="more-options-item" href="http://data.globalforestwatch.org/" target="_blank">
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-open-data"></use></svg>
                 <span>open data portal</span>
               </a>
