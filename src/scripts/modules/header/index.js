@@ -518,12 +518,12 @@ class Header {
       this.initGoogleTranslate();
     }
 
-    setTimeout(() => {
+    if (!window.liveSettings.localScript) {
       const translateScript = document.createElement('script');
       translateScript.type = 'text/javascript';
       translateScript.src = '//cdn.transifex.com/live.js';
       document.head.appendChild(translateScript);
-    }, 0);
+    }
   }
 
   /**
