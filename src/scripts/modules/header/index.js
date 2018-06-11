@@ -503,7 +503,7 @@ class Header {
       'climate.globalforestwatch.org',
       'water.globalforestwatch.org',
       'gfwc-staging.herokuapp.com',
-      'forest-watcher.herokuapp.com',
+      'forestwatcher.globalforestwatch.org',
       // 'commodities.globalforestwatch.org'
     ];
 
