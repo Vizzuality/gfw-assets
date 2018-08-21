@@ -115,6 +115,7 @@ class Contact {
     this.$body.on('click', '.feedback-link', this.showFeedback.bind(this));
     this.$body.on('click', '.newsletter-link', this.showNewsletter.bind(this));
     this.$body.on('click', '.js-footer-newsletter', this.showNewsletter.bind(this));
+    this.$body.on('click', '.js-footer-contact-us', this.showContactUs.bind(this));
     this.$body.on('click', '.data-suggestion-link', this.showDataSuggestion.bind(this));
 
     this.$el.on('click', '.js-btn-submit', this.actionSubmit.bind(this));
@@ -163,7 +164,15 @@ class Contact {
     this.changeStep('newsletter');
     this.hidden = false;
     this.toggle();
-    window.history.pushState('Show newsletter', document.title, this.toggleParam('show_newsletter',true));
+    window.history.pushState('Show newsletter', document.title, this.toggleParam('show_newsletter', true));
+  }
+
+  showContactUs(e) {
+    e && e.preventDefault() && e.stopPropagation();
+    this.changeStep('contact');
+    this.hidden = false;
+    this.toggle();
+    window.history.pushState('Show contact us', document.title, this.toggleParam('show_contact', true));
   }
 
   hide(e) {

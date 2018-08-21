@@ -29,10 +29,10 @@
     </div>
     <div class="m-footer-links -links-contact-sitemap">
       <a class="text-button" href="/sitemap">SITEMAP</a>
-      <a class="text-button m-footer-links__contact" href="/?show_contact=true">
+      <div class="text-button m-footer-links__contact js-footer-contact-us">
         CONTACT US
         <svg class="icon icon-contact"><use xlink:href="#gfw-header-icon-contact"></use></svg>
-      </a>
+      </div>
     </div>
   </div>
 
