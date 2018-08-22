@@ -1,5 +1,3 @@
-<span id="feedbackLink" class="feedback-link feedback-link-fixed"><span>Contact Us</span></span>
-
 <div id="contactModalGfw" class="m-modal-assets">
   <!-- BACKDROP -->
   <div class="modal-backdrop"></div>
