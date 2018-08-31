@@ -328,11 +328,16 @@
     }
   }
 
+  .slides {
+    height: 100px;
+  }
+
   .js_slide {
     position: relative;
     display: inline-block;
     height: 82px;
     width: 100%;
+    vertical-align: bottom;
 
     @media (min-width: $br-mobile) {
       width: 25%;
@@ -343,11 +348,31 @@
     }
 
     a {
-      display: block;
+      display: flex;
+      justify-content: center;
+      align-items: center;
       margin: 0 auto;
       position: relative;
       top: 50%;
       transform: translate(0, -50%);
+
+      .default {
+        visibility: visible;
+      }
+
+      .hover {
+        visibility: hidden;
+      }
+
+      &:hover {
+        .default {
+          visibility: hidden;
+        }
+
+        .hover {
+          visibility: visible;
+        }
+      }
 
       &.afc {
         @include sprite($afc);
@@ -551,6 +576,12 @@
         @include sprite($ioi);
         &:hover {
           @include sprite($ioihover);
+        }
+      }
+      &.jjfast {
+        @include sprite($jjfast);
+        &:hover {
+          @include sprite($jjfasthover);
         }
       }
       &.lapig {
