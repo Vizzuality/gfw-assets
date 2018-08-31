@@ -47,74 +47,74 @@
       <p>Partners</p>
       <div class="frame js_frame">
         <ul class="slides js_slides">
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Agence française de développement international" href="http://www.afd.fr/home" class="afc"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Airbus" href="http://airbusdefenceandspace.com/" class="airbus"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Agro satélite" href="http://agrosatelite.com.br/" class="agrosatelite"></a></li>
-          <li class="js_slide"><a target='_blank' rel="noreferrer" title="Astro Digital" href='https://astrodigital.com/' class="astrodigital"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Badan Nasional Penanggulangan Bencana" href="http://bnpb.go.id/" class="bnpb"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cisl.cam.ac.uk/banking" class="bei"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://blueraster.com/" class="blueraster"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cisl.cam.ac.uk/" class="cambridge"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cargill.com/" class="cargill"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://cartodb.com/" class="cartodb"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cgdev.org/" class="centerforglobaldevelopment"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://foreststreesagroforestry.org/" class="cgiar"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://ciat.cgiar.org/" class="ciat"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Climate and Land Use Alliance" href="http://www.climateandlandusealliance.org/" class="clua"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.conafor.gob.mx/" class="conafor"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Conservation international" href="http://www.conservation.org" class="conservationinternational"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.digitalglobe.com/" class="digitalglobe"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.esri.com/gfw" class="esri"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://earthjournalism.net/" class="ejn"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://ewmi.org/" class="ewmi"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.thegef.org/gef/" class="gef"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.genfound.org/" class="generation"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://globalforestwatch.ca/" class="globalforestwatchcanada"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://earthengine.google.org/" class="google"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.haka.or.id/" class="haka"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.icf.gob.hn/" class="icf"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.iadb.org/en/inter-american-development-bank,2837.html" class="idb"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.idbinvest.org/" class="idbinvest"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.imazon.org.br/pagina-inicial-en?set_language=en&amp;cl=en" class="imazon"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.inab.gob.gt/" class="inab"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://europe.croklaan.com/taking-responsibility" class="ioi"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.janegoodall.org/" class="thejanegoodallinstitute"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Laboratório de Processamento de Imagens e Geoprocessamento" href="https://www.lapig.iesa.ufg.br/lapig/" class="lapig"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.macfound.org/" class="macarthur"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.minepat.gov.cm/index.php/en/?lang=en" class="minepat"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Le Ministère des Forêts et de la Faune" href="http://www.minfof.cm/" class="ministiere"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Moises Bertoni" href="http://www.mbertoni.org.py/v1/en" class="moises"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Mongabay" href="http://www.mongabay.com/" class="mongabay"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.moore.org/" class="moore"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="ONG Muyissi" href="http://www.ongmuyissi.org/" class="muyissi"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.regjeringen.no/en/topics/climate-and-environment/climate/klima--og-skogprosjektet/id2000712/" class="norwegianministri"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.opendevelopmentcambodia.net/" class="opendevcam"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://orbitalinsight.com/" class="orbital"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://osfac.net/index.php?lang=en" class="osfac"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.osinfor.gob.pe/portal/index.php" class="osinfor"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.rainforestfoundationuk.org/" class="rfuk"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://raisg.socioambiental.org/" class="raisg"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.redd-indonesia.org/" class="redd"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.reforestamosmexico.org/" class="rm"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.resolv.org/site-BiodiversityWildlifeSolutions/" class="resolve"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="RSPO" href="http://www.rspo.org/" class="rspo"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="RTRS" href="http://www.responsiblesoy.org/?lang=en" class="rtrs"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.scanex.ru/en/" class="scannex"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.sentinel-hub.com/" class="sentinelhub"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.tiliafund.org/" class="thetiliafund"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.transparentworld.ru/ru/" class="tipos"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.gov.uk/government/organisations/department-for-international-development" class="ukaid"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.unep.org/" class="unep"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="UNEP-WCMC" href="http://www.unep-wcmc.org/" class="unepwcmc"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.unilever.com/" class="unilever"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.geog.umd.edu/" class="universityofmaryland"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.usaid.gov/" class="usaid"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.urthecast.com/" class="urthecast"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://vizzuality.com/" class="vizzuality"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Woods Hole Research Center" href="http://www.whrc.org/" class="whrc"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.wilburforce.org/" class="wilburforce"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Alliance for Zero Extinction" href="http://www.zeroextinction.org/" class="zeroextinction"></a></li>
-          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.zsl.org/" class="zsl"></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Agence française de développement international" href="http://www.afd.fr/home"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/afc.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Airbus" href="http://airbusdefenceandspace.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/airbus.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Agro satélite" href="http://agrosatelite.com.br/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/agrosatelite.png" /></a></li>
+          <li class="js_slide"><a target='_blank' rel="noreferrer" title="Astro Digital" href='https://astrodigital.com/'><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/astrodigital.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Badan Nasional Penanggulangan Bencana" href="http://bnpb.go.id/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/bnpb.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cisl.cam.ac.uk/banking"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/bei.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://blueraster.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/blueraster.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cisl.cam.ac.uk/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/cambridge.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cargill.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/cargill.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://cartodb.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/cartodb.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.cgdev.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/centerforglobaldevelopment.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://foreststreesagroforestry.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/cgiar.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://ciat.cgiar.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/ciat.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Climate and Land Use Alliance" href="http://www.climateandlandusealliance.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/clua.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.conafor.gob.mx/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/conafor.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Conservation international" href="http://www.conservation.org"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/conservationinternational.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.digitalglobe.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/digitalglobe.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.esri.com/gfw"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/esri.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://earthjournalism.net/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/ejn.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://ewmi.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/ewmi.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.thegef.org/gef/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/gef.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.genfound.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/generation.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://globalforestwatch.ca/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/globalforestwatchcanada.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://earthengine.google.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/google.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.haka.or.id/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/haka.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.icf.gob.hn/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/icf.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.iadb.org/en/inter-american-development-bank,2837.html"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/idb.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.idbinvest.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/idbinvest.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.imazon.org.br/pagina-inicial-en?set_language=en&amp;cl=en"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/imazon.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.inab.gob.gt/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/inab.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://europe.croklaan.com/taking-responsibility"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/ioi.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.eorc.jaxa.jp/jjfast/"><img src="https://raw.githubusercontent.com/Vizzuality/gfw-assets/develop/src/images/logos/jjfast.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.janegoodall.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/thejanegoodallinstitute.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Laboratório de Processamento de Imagens e Geoprocessamento" href="https://www.lapig.iesa.ufg.br/lapig/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/lapig.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.macfound.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/macarthur.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.minepat.gov.cm/index.php/en/?lang=en"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/minepat.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Le Ministère des Forêts et de la Faune" href="http://www.minfof.cm/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/ministiere.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Moises Bertoni" href="http://www.mbertoni.org.py/v1/en"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/moises.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Mongabay" href="http://www.mongabay.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/mongabay.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.moore.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/moore.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="ONG Muyissi" href="http://www.ongmuyissi.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/muyissi.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="https://www.regjeringen.no/en/topics/climate-and-environment/climate/klima--og-skogprosjektet/id2000712/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/norwegianministri.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.opendevelopmentcambodia.net/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/opendevcam.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://orbitalinsight.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/orbital.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://osfac.net/index.php?lang=en"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/osfac.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.osinfor.gob.pe/portal/index.php"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/osinfor.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.rainforestfoundationuk.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/rfuk.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://raisg.socioambiental.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/raisg.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.redd-indonesia.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/redd.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.reforestamosmexico.org/"><img src="https://raw.githubusercontent.com/Vizzuality/gfw-assets/develop/src/images/logos/rm.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.resolv.org/site-BiodiversityWildlifeSolutions/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/resolve.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="RSPO" href="http://www.rspo.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/rspo.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="RTRS" href="http://www.responsiblesoy.org/?lang=en"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/rtrs.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.scanex.ru/en/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/scannex.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.sentinel-hub.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/sentinelhub.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.tiliafund.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/thetiliafund.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.transparentworld.ru/ru/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/tipos.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.gov.uk/government/organisations/department-for-international-development"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/ukaid.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.unep.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/unep.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="UNEP-WCMC" href="http://www.unep-wcmc.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/unepwcmc.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.unilever.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/unilever.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.geog.umd.edu/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/universityofmaryland.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.usaid.gov/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/usaid.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://vizzuality.com/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/vizzuality.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Woods Hole Research Center" href="http://www.whrc.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/whrc.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.wilburforce.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/wilburforce.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" title="Alliance for Zero Extinction" href="http://www.zeroextinction.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/zeroextinction.png" /></a></li>
+          <li class="js_slide"><a target="_blank" rel="noreferrer" href="http://www.zsl.org/"><img src="https://cdn.rawgit.com/Vizzuality/gfw-assets/12915d2317293a4b912b9cf3eb5cdb3416f62ea6/src/images/logos/zsl.png" /></a></li>
         </ul>
       </div>
       <span class="js_prev prev"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-footer-arrow"></use></svg></span>

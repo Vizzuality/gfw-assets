@@ -12,7 +12,7 @@ if (window.innerWidth > 850) {
 const sliderOptions = {
   enableMouseEvents: true,
   infinite: 4,
-  slidesToScroll: numberScroll,
+  slidesToScroll: numberScroll
 };
 
 const links = [
