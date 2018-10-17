@@ -122,6 +122,7 @@
   </div>
   <div class="m-footer-terms">
     <a href="/terms">Terms of Service</a> ·
+    <a href="/privacy-policy">Privacy Policy</a> ·
     <a href="http://stats.pingdom.com/ghabapk9rihc" target="_blank">Global Forest Watch System Status</a>
   </div>
 </div>
