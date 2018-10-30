@@ -25,6 +25,11 @@
             <svg class="icon icon-instagram"><use xlink:href="#gfw-header-icon-instagram"></use></svg>
           </a>
         </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCAsamYre1KLulf4FD-xJfLA" target="_blank">
+            <svg class="icon icon-youtube"><use xlink:href="#gfw-header-icon-youtube"></use></svg>
+          </a>
+        </li>
       </ul>
     </div>
     <div class="m-footer-links -links-contact-sitemap">
