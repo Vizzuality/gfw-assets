@@ -30,13 +30,17 @@
             <svg class="icon icon-youtube"><use xlink:href="#gfw-header-icon-youtube"></use></svg>
           </a>
         </li>
+        <li>
+          <a href="https://groups.google.com/forum/#!forum/globalforestwatch" target="_blank">
+            <svg class="icon icon-contact"><use xlink:href="#gfw-header-icon-contact"></use></svg>
+          </a>
+        </li>
       </ul>
     </div>
     <div class="m-footer-links -links-contact-sitemap">
       <a class="text-button" href="/sitemap">SITEMAP</a>
       <div class="text-button m-footer-links__contact js-footer-contact-us">
         CONTACT US
-        <svg class="icon icon-contact"><use xlink:href="#gfw-header-icon-contact"></use></svg>
       </div>
     </div>
   </div>

@@ -164,12 +164,17 @@
           width: 22px;
           height: 22px;
         }
+
+        &.icon-contact {
+          width: 18px;
+          height: 22px;
+        }
       }
     }
 
     .m-footer-links__contact {
       position: relative;
-      padding-right: 26px;
+      padding-right: 5px;
       cursor: pointer;
 
       .icon-contact {
