@@ -5,7 +5,7 @@
       <path d="M19.733 3.733l-3.733-3.733-16 16 16 16 3.733-3.733-12.267-12.267z"></path>
     </symbol>
     <symbol id="gfw-header-icon-contact" viewBox="0 0 32 32">
-      <title>contact</title>
+      <title>discussion forum</title>
       <path d="M2 0h28c1.2 0 2 0.8 2 2v20c0 1.2-0.8 2-2 2h-10l-12 8v-8h-6c-1.2 0-2-0.8-2-2v-20c0-1.2 0.8-2 2-2z"></path>
     </symbol>
     <symbol id="gfw-header-icon-facebook" viewBox="0 0 20 32">
