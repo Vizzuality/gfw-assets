@@ -93,10 +93,6 @@
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-open-data"></use></svg>
                 <span>open data portal</span>
               </a>
-              <a class="more-options-item" href="<% if (location.hostname === 'staging.globalforestwatch.org') {%>http://staging.globalforestwatch.org/contribute-data<% } else { %>http://www.globalforestwatch.org/contribute-data<% } %>">
-                <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-contribute_icon"></use></svg>
-                <span>contribute data</span>
-              </a>
               <a class="more-options-item" href="http://blog.globalforestwatch.org/">
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-blog"></use></svg>
                 <span>blog</span>
