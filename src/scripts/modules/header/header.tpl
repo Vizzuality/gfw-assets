@@ -85,9 +85,9 @@
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-how-to"></use></svg>
                 <span>how to portal</span>
               </a>
-              <a class="more-options-item" href="<% if (location.hostname === 'staging.globalforestwatch.org') {%>http://staging.globalforestwatch.org/small-grants-fund<% } else { %>http://www.globalforestwatch.org/small-grants-fund<% } %>">
+              <a class="more-options-item" href="<% if (location.hostname === 'staging.globalforestwatch.org') {%>http://staging.globalforestwatch.org/grants-and-fellowships<% } else { %>http://www.globalforestwatch.org/grants-and-fellowships<% } %>">
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-samll-people"></use></svg>
-                <span>small grants fund</span>
+                <span>grants & fellowships</span>
               </a>
               <a class="more-options-item" href="http://data.globalforestwatch.org/" target="_blank">
                 <svg class="svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gfw-header-icon-open-data"></use></svg>

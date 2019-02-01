@@ -99,8 +99,8 @@ class Header {
 
     // Black list menu Options
     this.blacklistOptions = [
-      'globalforestwatch.org/small-grants-fund',
-      'staging.globalforestwatch.org/small-grants-fund',
+      'globalforestwatch.org/grants-and-fellowships',
+      'staging.globalforestwatch.org/grants-and-fellowships',
       'developers.globalforestwatch.org/',
       'globalforestwatch.org/howto',
       'staging.globalforestwatch.org/howto',
