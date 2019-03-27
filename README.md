@@ -66,8 +66,8 @@ To finish, add this script in your site:
 					url: '#',
 				},
 				{
-					title: 'countries',
-					url: '/countries',
+					title: 'dashboard',
+					url: '/dashboards/global',
 				},
 				{
 					title: 'blog',
