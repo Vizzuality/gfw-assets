@@ -837,14 +837,17 @@ $commodities: #e98300;
         }
 
         .sitemap-container {
+          display: flex;
+          border-top: rem(1px) solid rgba($dark, .2);
+          padding-top: rem(30px);
 
-          h3 {
-            padding-top: rem(30px);
-            border-top: rem(1px) solid rgba($dark, .2);
+          h3, div {
             color: $dark-gray;
             font-size: rem(14px);
             line-height: 1;
             text-transform: uppercase;
+            margin-right: 30px;
+            cursor: pointer;
           }
         }
       }
