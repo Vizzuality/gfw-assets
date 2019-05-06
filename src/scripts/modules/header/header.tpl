@@ -111,7 +111,6 @@
         <div class="m-sitemap-info-container">
           <div class="-center">
             <div class="sitemap-container">
-              <a href="http://www.globalforestwatch.org/sitemap"><h3>SITEMAP</h3></a>
               <a href="http://www.globalforestwatch.org/terms"><h3>TERMS</h3></a>
               <a href="http://www.globalforestwatch.org/privacy-policy"><h3>PRIVACY POLICY</h3></a>
               <div class="text-button m-footer-links__contact js-footer-contact-us">
