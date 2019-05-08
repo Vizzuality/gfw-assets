@@ -1,7 +1,7 @@
+/* eslint-disable */
 'use strict';
 
 import $gfwdom from '../../facade';
-import utils from '../../utils';
 import navigationTpl from './navigation.tpl';
 
 import globaljson from './global.json';
@@ -10,7 +10,6 @@ import howtojson from './howto.json';
 import developersjson from './developers.json';
 import firesjson from './fires.json';
 import commoditiesjson from './commodities.json';
-import waterjson from './water.json';
 
 const navigationMenus = {
   'default': globaljson,
@@ -18,11 +17,11 @@ const navigationMenus = {
 
   // Paths
   'howto': howtojson,
-  'developers-corner' : developersjson,
+  'developers-corner': developersjson,
 
   // Fires
   'fires.globalforestwatch.org': firesjson,
-  'wri-gfw-fires-staging.herokuapp.com' : firesjson,
+  'wri-gfw-fires-staging.herokuapp.com': firesjson,
 
   // Commodities
   'commodities.globalforestwatch.org': commoditiesjson,
@@ -31,10 +30,6 @@ const navigationMenus = {
   // Climate
   'climate.globalforestwatch.org': climatejson,
   'gfwc-staging.herokuapp.com': climatejson,
-
-  // Water
-  "water.globalforestwatch.org": waterjson,
-  'water-staging.globalforestwatch.org': waterjson,
 };
 
 
@@ -56,7 +51,7 @@ class Navigation {
   render() {
     this.$el.html(navigationTpl({
       menu: this.getMenu(),
-      transifex: !!window.liveSettings
+      transifex: !!window.liveSettings,
     }));
   }
 
@@ -73,7 +68,6 @@ class Navigation {
     }
     return navigationMenus[hostname] || navigationMenus['default'];
   }
-
 }
 
 export default Navigation;

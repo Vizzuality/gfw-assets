@@ -12,7 +12,6 @@ $gfw-images:
   'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwWatcher.png';
 $fires: #e7002f;
 $climate: #5b80a0;
-$water: #4099ce;
 $commodities: #e98300;
 
 #headerGfw {
@@ -91,10 +90,6 @@ $commodities: #e98300;
 
           &.gfw-commodities {
             background-image: url(nth($gfw-images, 3));
-          }
-
-          &.gfw-water {
-            background-image: url(nth($gfw-images, 4));
           }
 
           &.gfw-climate {
@@ -176,12 +171,6 @@ $commodities: #e98300;
             &.-fires {
               &::after {
                 background-color: $fires;
-              }
-            }
-
-            &.-water {
-              &::after {
-                background-color: $water;
               }
             }
 
@@ -693,10 +682,6 @@ $commodities: #e98300;
 
               &.gfw-commodities {
                 background-image: url(nth($gfw-images, 3));
-              }
-
-              &.gfw-water {
-                background-image: url(nth($gfw-images, 4));
               }
 
               &.gfw-climate {

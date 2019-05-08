@@ -1,3 +1,4 @@
+/* eslint-disable */
 import $gfwdom from '../../facade';
 import utils from '../../utils';
 import headerTpl from './header.tpl';
@@ -321,7 +322,7 @@ class Header {
   }
 
   hideMenus() {
-    // // Allow mobile scroll
+    // Allow mobile scroll
     if (this.menuDashboard.hasClass('-active')) {
       this.searchContainer.reset();
     }
@@ -501,7 +502,6 @@ class Header {
 
     const blacklist = [
       'climate.globalforestwatch.org',
-      'water.globalforestwatch.org',
       'gfwc-staging.herokuapp.com',
       'forestwatcher.globalforestwatch.org',
       // 'commodities.globalforestwatch.org'

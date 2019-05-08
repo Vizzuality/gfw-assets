@@ -34,7 +34,6 @@
                       <option value="gfw-commodities-inquiry">GFW Commodities inquiry</option>
                       <option value="gfw-fires-inquiry">GFW Fires inquiry</option>
                       <option value="gfw-climate-inquiry">GFW Climate inquiry</option>
-                      <option value="gfw-water-inquiry">GFW Water inquiry</option>
                       <option value="general-inquiry">General inquiry</option>
                     </select>
                   </div>

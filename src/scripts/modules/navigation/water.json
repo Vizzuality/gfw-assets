@@ -11,9 +11,6 @@
     "name": "Learn More",
     "link": "/about/",
     "submenu": [{
-      "name": "About GFW Water",
-      "link": "/about/#about=water"
-    },{
       "name": "Beyond the numbers",
       "link": "/about/#about=numbers"
     },{

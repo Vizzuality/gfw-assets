@@ -62,7 +62,6 @@
             <a href="http://climate.globalforestwatch.org/" target="_blank" class="box gfw-climate"></a>
             <a href="http://fires.globalforestwatch.org/home/" target="_blank" class="box gfw-fires"></a>
             <a href="http://commodities.globalforestwatch.org/" target="_blank" class="box gfw-commodities"></a>
-            <a href="http://water.globalforestwatch.org/" target="_blank" class="box gfw-water"></a>
             <a href="http://forestwatcher.globalforestwatch.org/" target="_blank" class="box gfw-watcher"></a>
             <div class="box-last">
               <a href="http://developers.globalforestwatch.org/" target="_blank" class="box -last">
