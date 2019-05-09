@@ -10,6 +10,7 @@ import howtojson from './howto.json';
 import developersjson from './developers.json';
 import firesjson from './fires.json';
 import commoditiesjson from './commodities.json';
+import waterjson from './water.json';
 
 const navigationMenus = {
   'default': globaljson,
@@ -30,6 +31,10 @@ const navigationMenus = {
   // Climate
   'climate.globalforestwatch.org': climatejson,
   'gfwc-staging.herokuapp.com': climatejson,
+
+  // Water
+  'water.globalforestwatch.org': waterjson,
+  'water-staging.globalforestwatch.org': waterjson,
 };
 
 

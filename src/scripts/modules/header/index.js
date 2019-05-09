@@ -502,6 +502,7 @@ class Header {
 
     const blacklist = [
       'climate.globalforestwatch.org',
+      'water.globalforestwatch.org',
       'gfwc-staging.herokuapp.com',
       'forestwatcher.globalforestwatch.org',
       // 'commodities.globalforestwatch.org'
