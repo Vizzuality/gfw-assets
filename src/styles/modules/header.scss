@@ -93,6 +93,10 @@ $water: #4099ce;
             background-image: url(nth($gfw-images, 3));
           }
 
+          &.gfw-water {
+            background-image: url(nth($gfw-images, 4));
+          }
+
           &.gfw-climate {
             background-image: url(nth($gfw-images, 5));
           }
@@ -172,6 +176,12 @@ $water: #4099ce;
             &.-fires {
               &::after {
                 background-color: $fires;
+              }
+            }
+
+            &.-water {
+              &::after {
+                background-color: $water;
               }
             }
 
@@ -683,6 +693,10 @@ $water: #4099ce;
 
               &.gfw-commodities {
                 background-image: url(nth($gfw-images, 3));
+              }
+
+              &.gfw-water {
+                background-image: url(nth($gfw-images, 4));
               }
 
               &.gfw-climate {
