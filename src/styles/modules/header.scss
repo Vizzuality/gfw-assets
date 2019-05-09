@@ -689,7 +689,7 @@ $commodities: #e98300;
               margin-bottom: 0;
             }
 
-            a {
+            a, span {
               transition: color .1s linear;
               color: rgba($dark, .8);
               font-size: rem(14px);
@@ -698,6 +698,11 @@ $commodities: #e98300;
               &:hover {
                 color: $dark;
               }
+            }
+
+            ul {
+              padding-left: rem(25px);
+              margin-top: rem(20px);
             }
           }
         }
