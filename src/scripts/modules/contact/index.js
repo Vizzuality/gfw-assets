@@ -1,9 +1,10 @@
+/* eslint-disable */
 'use strict';
 
+import validate from 'validate.js';
 import $gfwdom from '../../facade';
 import utils from '../../utils';
 import contactTpl from './contact.tpl';
-import validate from 'validate.js';
 
 const topics = {
   'report-a-bug-or-error-on-gfw': {
@@ -34,15 +35,11 @@ const topics = {
     name: 'GFW Climate inquiry',
     placeholder: 'How can we help you?',
   },
-  'gfw-water-inquiry': {
-    name: 'GFW Water inquiry',
-    placeholder: 'How can we help you?',
-  },
   'general-inquiry': {
     name: 'General inquiry',
     placeholder: 'How can we help you?',
   },
-}
+};
 
 const constraints = {
   'email': {

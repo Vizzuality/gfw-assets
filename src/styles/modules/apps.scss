@@ -153,18 +153,18 @@
 							}
 	        	}
 	        	svg { fill: $blue; }
-	        }
-	        &.shape-water {
-	        	.app {
-	        		border-color: $bluewater;
-	        		@media (min-width: $br-mobile){
+					}
+					&.shape-water {
+						.app {
+							border-color: $bluewater;
+							@media (min-width: $br-mobile){
 								&:hover, &.-current {
 									background: $bluewater;
 								}
 							}
-	        	}
-	        	svg { fill: $bluewater; }
-	        }
+						}
+						svg { fill: $bluewater; }
+					}
 	  		}
 	  	}
 	  }

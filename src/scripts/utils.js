@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use strict';
 
 const smallBreakPoint = 850;
@@ -7,7 +8,7 @@ const whitelist = [
   'localhost',
   'gfw-nav.herokuapp.com',
   'staging.globalforestwatch.org',
-  'gfw-loss-categories.herokuapp.com/'
+  'gfw-loss-categories.herokuapp.com/',
 ];
 
 const apiVersion = 'v1';
@@ -15,7 +16,7 @@ const apiVersion = 'v1';
 const apiUrls = {
   'www.globalforestwatch.org': 'https://production-api.globalforestwatch.org',
   'gfw-nav.herokuapp.com': 'https://staging-api.globalforestwatch.org',
-  'staging.globalforestwatch.org': 'https://staging-api.globalforestwatch.org'
+  'staging.globalforestwatch.org': 'https://staging-api.globalforestwatch.org',
 };
 
 const blacklist = [
