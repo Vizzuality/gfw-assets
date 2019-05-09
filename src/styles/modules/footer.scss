@@ -76,7 +76,7 @@
         }
 
         @media (min-width: $br-mobile) {
-          flex-direction: row;
+          flex-direction: row-reverse;
           margin-top: 25px;
 
           a {

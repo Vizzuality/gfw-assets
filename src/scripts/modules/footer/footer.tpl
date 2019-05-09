@@ -38,7 +38,6 @@
       </ul>
     </div>
     <div class="m-footer-links -links-contact-sitemap">
-      <a class="text-button" href="/sitemap">SITEMAP</a>
       <div class="text-button m-footer-links__contact js-footer-contact-us">
         CONTACT US
       </div>
