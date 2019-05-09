@@ -21,6 +21,8 @@ Install project dependencies:
 
 ## Usage (development)
 
+The up-to-date branch for this repository is `develop`.
+
 To see in development mode run and follow terminal instructions:
 
 	npm start
