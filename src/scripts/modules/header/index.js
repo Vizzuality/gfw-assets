@@ -33,6 +33,7 @@ class Header {
     this.initTranslate();
     this.closeMenuOptionsMenu();
     this.initMyGFW();
+    this.toggleSubMenus();
     if (window.liveSettings.page === 'map') {
       this.initMapFunctions();
     }
@@ -136,6 +137,24 @@ class Header {
   closeMenuOptionsMenu() {
     $gfwdom('.option-menu').on('click', this.hideMenus.bind(this));
     $gfwdom('.option-menu').on('click', this.hideLanguageMenu.bind(this));
+  }
+
+  /**
+   * Functions for close dashboard when click menu options
+   */
+  toggleSubMenus() {
+    // $gfwdom('.nav-section').on('click', (e) => {
+    //   console.log(e);
+    // });
+    this.navContainer.on('click', '.nav-sections > li', (e) => {
+      console.log(e);
+      // e.currentTarget.addClass('open');
+      if (e.currentTarget.classList.length === 0) {
+        e.currentTarget.classList.add('open');
+      } else {
+        e.currentTarget.classList.remove('open');
+      }
+    });
   }
 
   /**

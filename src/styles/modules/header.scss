@@ -151,6 +151,7 @@ $commodities: #e98300;
 
           li {
             display: inline-block;
+            position: relative;
             margin-right: rem(40px);
 
             &.-selected {
@@ -201,14 +202,96 @@ $commodities: #e98300;
               margin-right: 0;
             }
 
-            a {
+            a, span {
               transition: color .1s linear;
               color: rgba($dark, .8);
               font-size: rem(14px);
               text-transform: uppercase;
+              cursor: pointer;
 
               &:hover {
                 color: $dark;
+              }
+            }
+
+            .triangle {
+              position: absolute;
+              top: calc(50% - 1px);
+              right: -12px;
+              width: 0;
+              height: 0;
+              margin-bottom: rem(4px);
+              margin-left: rem(5px);
+              border-top: rem(5px) solid $dark;
+              border-right: rem(4px) solid transparent;
+              border-left: rem(4px) solid transparent;
+
+              &.-open {
+                transform: rotate(180deg);
+              }
+            }
+
+            &.open {
+              .nav-sub-menu {
+                display: flex;
+              }
+
+              .triangle {
+                transform: rotate(180deg);
+              }
+            }
+
+            .nav-sub-menu {
+              display: none;
+              position: absolute;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              border: 1px solid rgba(51, 51, 51, 0.2);
+              top: rem(40px);
+              left: rem(-55px);
+              padding: 0;
+              background-color: #fff;
+
+              &::before,
+              &::after {
+                content: '';
+                display: block;
+                position: absolute;
+                width: 0;
+                height: 0;
+                border-style: solid;
+              }
+
+              &::before {
+                top: -12px;
+                border-color: transparent transparent rgba(51, 51, 51, 0.2) transparent;
+                border-width: 6px;
+                right: 45%;
+              }
+
+              &::after {
+                top: -10px;
+                border-color: transparent transparent #fff transparent;
+                border-width: 5px;
+                right: calc(45% + 1px);
+              }
+
+              li {
+                width: 100%;
+                margin: 0;
+
+                &:hover {
+                  background-color: #f7f7f7;
+                }
+
+                a {
+                  display: block;
+                  width: 100%;
+                  height: 100%;
+                  padding: rem(10px) rem(30px);
+                  text-align: center;
+                }
               }
             }
           }
