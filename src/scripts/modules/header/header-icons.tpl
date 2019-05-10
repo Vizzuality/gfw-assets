@@ -16,10 +16,6 @@
 <title>close-(1)</title>
 <path fill="#525352" style="fill: var(--color1, #525352)" d="M30.279 4.596l-11.404 11.404 11.404 11.404-2.875 2.875-11.404-11.404-11.404 11.404-2.875-2.875 11.404-11.404-11.404-11.404 2.875-2.875 11.404 11.404 11.404-11.404z"></path>
 </symbol>
-<symbol id="icon-stories" viewBox="0 0 34 32">
-<title>stories</title>
-<path fill="#97be32" style="fill: var(--color1, #97be32)" d="M25.6 21.333h8.534v-21.333h-34.133v21.333h14.934l10.666 10.666v-10.666z"></path>
-</symbol>
 <symbol id="gfw-header-icon-developer" viewBox="0 0 32 32">
 <title>Combined-Shape_3</title>
 <path fill="#97be32" style="fill: var(--color1, #97be32)" d="M20.114 4.492h-8.229v2.092h-2.057v-4.185h12.343v4.185h-2.057v-2.092zM18.057 17.046v-2.092h-4.114v2.092h-13.943v-10.462h32v10.462h-13.943zM13.943 19.138v2.092h4.114v-2.092h11.886v10.462h-27.886v-10.462h11.886z"></path>

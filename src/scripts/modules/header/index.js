@@ -38,7 +38,6 @@ class Header {
     if (window.liveSettings.page === 'map') {
       this.initMapFunctions();
     }
-    this.setStoriesLinkVisibility();
     return this;
   }
 
@@ -88,7 +87,6 @@ class Header {
     this.menuDashboard = this.$header.find('#dashboard-sub-menu');
     this.boxesContainer = this.$header.find('.boxes-container');
     this.currentBox = this.boxesContainer.find(`.box.${this.site}`);
-    this.storiesLink = $gfwdom('#stories-link');
 
     this.$links = this.$header.find('a');
     this.$linksSubmenu = this.$header.find('a');
@@ -602,7 +600,6 @@ class Header {
             <div id="logged-sub-menu-mobile" class="sub-menu-mobile m-header-submenu m-header-submenu-logged m-header-submenu-logged-mobile">
               <ul class="more-list">
                 <a target="_blank" href="/my_gfw/subscriptions"><li><span>My Subscriptions</span></li></a>
-                <a target="_blank" href="/my_gfw/stories"><li><span>My Stories</span></li></a>
                 <a target="_blank" href="/my_gfw"><li><span>My Profile</span></li></a>
                 <a href="/auth/logout" id="my-gfw-sign-out"><li><span>Log Out</span></li></a>
               </ul>
@@ -749,12 +746,6 @@ class Header {
         }
       }
     });
-  }
-
-  setStoriesLinkVisibility() {
-    if (!utils.isFlagship()) {
-      this.storiesLink.addClass('-hidden');
-    }
   }
 }
 

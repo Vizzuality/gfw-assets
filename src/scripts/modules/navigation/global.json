@@ -37,9 +37,6 @@
     "name": "Blog",
     "link": "http://blog.globalforestwatch.org/"
   },{
-    "name": "Crowdsourced stories",
-    "link": "/stayinformed/crowdsourced-stories"
-  },{
     "name": "Newsletter",
     "link": "/stayinformed/newsletter"
   },{
@@ -52,9 +49,6 @@
   "submenu": [{
     "name": "Develop your own app",
     "link": "/getinvolved/develop-your-own-app"
-  },{
-    "name": "Submit a story",
-    "link": "/stories/new"
   },{
     "name": "Share data",
     "link": "/getinvolved/share-data"
@@ -88,9 +82,6 @@
   },{
     "name": "Analyze forest change",
     "link": "/howto/analyze-forest-change"
-  },{
-    "name": "Subscribe to alerts and user stories",
-    "link": "/howto/subscribe-to-alerts-and-user-stories"
   },{
     "name": "Submit a story",
     "link": "/howto/submit-a-story"
