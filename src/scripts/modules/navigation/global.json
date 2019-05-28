@@ -11,8 +11,8 @@
     "name": "Dashboard",
     "link": "/dashboards/global"
   },{
-    "name": "Commodities",
-    "link": "http://commodities.globalforestwatch.org/",
+    "name": "GFW Pro",
+    "link": "http://pro.globalforestwatch.org/",
     "classname": "mobile-friendly"
   },{
     "name": "Fires",

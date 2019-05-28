@@ -9,11 +9,13 @@ $gfw-images:
   'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwCommodities.png',
   'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwWater.png',
   'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwClimate.png',
-  'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwWatcher.png';
+  'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwWatcher.png',
+  'https://raw.githubusercontent.com/Vizzuality/gfw-assets/7a3b4402fd3a466a20bc938029827f874c79dc1e/src/images/gfw_logos/gfwPro.png';
 $fires: #e7002f;
 $climate: #5b80a0;
 $commodities: #e98300;
 $water: #4099ce;
+$pro: #232323;
 
 #headerGfw {
   width: 100%;
@@ -99,6 +101,10 @@ $water: #4099ce;
 
           &.gfw-climate {
             background-image: url(nth($gfw-images, 5));
+          }
+
+          &.gfw-pro {
+            background-image: url(nth($gfw-images, 6));
           }
 
           .ribbon {

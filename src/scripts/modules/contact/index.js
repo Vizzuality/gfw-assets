@@ -23,10 +23,6 @@ const topics = {
     name: 'Data-related inquiry or suggestion',
     placeholder: 'How can we help you?',
   },
-  'gfw-commodities-inquiry': {
-    name: 'GFW Commodities inquiry',
-    placeholder: 'How can we help you?',
-  },
   'gfw-fires-inquiry': {
     name: 'GFW Fires inquiry',
     placeholder: 'How can we help you?',

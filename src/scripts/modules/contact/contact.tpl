@@ -31,7 +31,6 @@
                       <option value="provide-feedback">Provide feedback</option>
                       <option value="media-request">Media request</option>
                       <option value="data-related-inquiry">Data related inquiry or suggestion</option>
-                      <option value="gfw-commodities-inquiry">GFW Commodities inquiry</option>
                       <option value="gfw-fires-inquiry">GFW Fires inquiry</option>
                       <option value="gfw-climate-inquiry">GFW Climate inquiry</option>
                       <option value="general-inquiry">General inquiry</option>
