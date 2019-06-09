@@ -104,7 +104,7 @@ $pro: #232323;
           }
 
           &.gfw-pro {
-            background-image: url('https://raw.githubusercontent.com/Vizzuality/gfw-assets/develop/src/images/gfw_logos/gfwPro.png');
+            background-image: url(nth($gfw-images, 7));
           }
 
           .ribbon {
@@ -795,6 +795,10 @@ $pro: #232323;
 
               &.gfw-climate {
                 background-image: url(nth($gfw-images, 5));
+              }
+
+              &.gfw-pro {
+                background-image: url(nth($gfw-images, 7));
               }
 
               &.-last {
