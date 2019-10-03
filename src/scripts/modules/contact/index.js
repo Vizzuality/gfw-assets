@@ -364,7 +364,7 @@ class Contact {
   changeTopic(e) {
     var topic = e.currentTarget.value;
     if (!!topic) {
-      var placeholder = topics[topic]['placeholder'];
+      var placeholder = topics[topic]['placeholder'] || '';
       this.$contactMessage.attr('placeholder', placeholder);
     }
   }
