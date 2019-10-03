@@ -13,8 +13,8 @@
           <!-- STEP CONTACT -->
           <li class="modal-step -active" data-step="contact">
             <header>
-              <h2>Contact us & feedback</h2>
-              <h3>Question, comment, request, feedback? We want to hear from you! Help us improve Global Forest Watch by completing the form below.</h3>
+              <h2>Contact us</h2>
+              <h3>For media inquiries, email <a href="mailto:katie.fletcher@wri.org">katie.fletcher@wri.org</a></h3>
             </header>
             <div class="modal-step-content">
               <form id="contact-form">
@@ -25,13 +25,25 @@
                 <div class="field">
                   <label for="topic">Topic *</label>
                   <div class="m-select">
-                    <select id="topic" class="js- chosen-select default required" name="topic" data-placeholder="Please select a topic so that we can best respond">
+                    <select id="topic" class="js- chosen-select default required" name="topic" data-placeholder="Please select a topic">
                       <option value=""></option>
-                      <option value="report-a-bug-or-error-on-gfw">Report a bug or error on GFW</option>
+                      <option value="report-a-bug-or-error">Report a bug or error</option>
                       <option value="provide-feedback">Provide feedback</option>
-                      <option value="media-request">Media request</option>
                       <option value="data-related-inquiry">Data related inquiry or suggestion</option>
                       <option value="general-inquiry">General inquiry</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="field">
+                  <label for="tool">Tool *</label>
+                  <div class="m-select">
+                    <select id="tool" class="js- chosen-select default required" name="tool" data-placeholder="Select a tool that applies">
+                      <option value=""></option>
+                      <option value="gfw">GFW</option>
+                      <option value="gfw-pro">GFW Pro</option>
+                      <option value="fw">Forest Watcher</option>
+                      <option value="blog">GFW Blog</option>
+                      <option value="map-builder">GFW MapBuilder</option>
                     </select>
                   </div>
                 </div>

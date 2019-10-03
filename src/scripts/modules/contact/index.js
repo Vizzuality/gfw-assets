@@ -7,26 +7,37 @@ import utils from '../../utils';
 import contactTpl from './contact.tpl';
 
 const topics = {
-  'report-a-bug-or-error-on-gfw': {
-    name: 'Report a bug or error on GFW',
-    placeholder: 'Explain the bug or error and tell us where on the website you encountered it. What browser (e.g., Chrome version 50.0.2661.94 m) and operating system (e.g., Windows 8.1) do you use?',
+  'report-a-bug-or-error': {
+    name: 'Report a bug or error',
+    placeholder: "Please tell us what browser and operating system you're using, including version numbers."
   },
   'provide-feedback': {
-    name: 'Provide feedback',
-    placeholder: 'Tell us about your experience with GFW! Examples: How can we improve GFW? Why did you visit GFW? How do you use GFW? If and how is the information provided by GFW useful for your work? Are there any additional features and/or data that would be useful?  Was anything confusing or difficult to use?  Etc...',
-  },
-  'media-request': {
-    name: 'Media request',
-    placeholder: 'How can we help you?',
+    name: 'Provide feedback'
   },
   'data-related-inquiry': {
-    name: 'Data-related inquiry or suggestion',
-    placeholder: 'How can we help you?',
+    name: 'Data-related inquiry or suggestion'
   },
   'general-inquiry': {
-    name: 'General inquiry',
-    placeholder: 'How can we help you?',
+    name: 'General inquiry'
   },
+};
+
+const tools = {
+  gfw: {
+    name: 'GFW'
+  },
+  'gfw-pro': {
+    name: 'GFW Pro'
+  },
+  fw: {
+    name: 'Forest Watcher'
+  },
+  blog: {
+    name: 'GFW Blog'
+  },
+  'map-builder': {
+    name: 'GFW MapBuilder'
+  }
 };
 
 const constraints = {
@@ -35,6 +46,9 @@ const constraints = {
     email: true
   },
   'topic': {
+    presence: true
+  },
+  'tool': {
     presence: true
   },
   'message': {
