@@ -1,6 +1,3 @@
-<div class="m-footer-subscribe">
-  <div class="m-footer-subscribe-button js-footer-newsletter">STAY UPDATED</div>
-</div>
 <div class="wrapper">
   <div class="m-footer-list">
     <div class="m-footer-links">
@@ -41,6 +38,7 @@
       <div class="text-button m-footer-links__contact js-footer-contact-us">
         CONTACT US
       </div>
+      <a href="https://www.globalforestwatch.org/subscribe" class="m-footer-subscribe-button">SUBSCRIBE TO THE GFW NEWSLETTER</a>
     </div>
   </div>
 
