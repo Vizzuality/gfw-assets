@@ -29,7 +29,6 @@ const navigationMenus = {
   'commodities-test.herokuapp.com': commoditiesjson,
 
   // Climate
-  'climate.globalforestwatch.org': climatejson,
   'gfwc-staging.herokuapp.com': climatejson,
 
   // Water
@@ -65,7 +64,6 @@ class Navigation {
     let path = (!!location.pathname && location.pathname != '/') ? location.pathname.split('/')[1] : null;
 
     // Develop
-    // let hostname = 'climate.globalforestwatch.org';
     // let path = '/developers-corner';
 
     if (hostname == 'localhost' || hostname == 'staging.globalforestwatch.org' || hostname == 'www.globalforestwatch.org') {
