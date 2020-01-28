@@ -143,17 +143,6 @@
 	        	}
 	        	svg { fill: $orange; }
 	        }
-	        &.shape-climate {
-	        	.app {
-	        		border-color: $blue;
-	        		@media (min-width: $br-mobile){
-								&:hover, &.-current {
-									background: $blue;
-								}
-							}
-	        	}
-	        	svg { fill: $blue; }
-					}
 					&.shape-water {
 						.app {
 							border-color: $bluewater;

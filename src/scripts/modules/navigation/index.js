@@ -5,7 +5,6 @@ import $gfwdom from '../../facade';
 import navigationTpl from './navigation.tpl';
 
 import globaljson from './global.json';
-import climatejson from './climate.json';
 import howtojson from './howto.json';
 import developersjson from './developers.json';
 import firesjson from './fires.json';
@@ -27,10 +26,6 @@ const navigationMenus = {
   // Commodities
   'commodities.globalforestwatch.org': commoditiesjson,
   'commodities-test.herokuapp.com': commoditiesjson,
-
-  // Climate
-  'climate.globalforestwatch.org': climatejson,
-  'gfwc-staging.herokuapp.com': climatejson,
 
   // Water
   'water.globalforestwatch.org': waterjson,
@@ -65,7 +60,6 @@ class Navigation {
     let path = (!!location.pathname && location.pathname != '/') ? location.pathname.split('/')[1] : null;
 
     // Develop
-    // let hostname = 'climate.globalforestwatch.org';
     // let path = '/developers-corner';
 
     if (hostname == 'localhost' || hostname == 'staging.globalforestwatch.org' || hostname == 'www.globalforestwatch.org') {
