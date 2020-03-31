@@ -51,24 +51,6 @@
                   <label for="message">Message *</label>
                   <textarea id="message" name="message" placeholder="How can we help you?"></textarea>
                 </div>
-                <div class="field">
-                  <h3>INTERESTED IN TESTING NEW FEATURES ON GFW?</h3>
-                  <p>Sign up and become an official GFW tester!</p>
-                  <div class="radio-box">
-                    <div class="custom-radio">
-                      <input id="signup-true" type="radio" name="signup" value="true">
-                      <label for="signup-true">
-                        <span></span> Yes, sign me up.
-                      </label>
-                    </div>
-                    <div class="custom-radio">
-                      <input id="signup-false" type="radio" name="signup" value="false" checked>
-                      <label for="signup-false">
-                        <span></span> No thanks.
-                      </label>
-                    </div>
-                  </div>
-                </div>
               </form>
             </div>
           </li>

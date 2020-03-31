@@ -24,7 +24,7 @@ const topics = {
 
 const tools = {
   gfw: {
-    name: 'GFW'
+    name: 'Global Forest Watch'
   },
   'gfw-pro': {
     name: 'GFW Pro'
@@ -37,6 +37,9 @@ const tools = {
   },
   'map-builder': {
     name: 'GFW MapBuilder'
+  },
+  'not-applicable': {
+    name: 'Not applicable'
   }
 };
 
